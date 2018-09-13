@@ -1,2 +1,4 @@
 # DS_git_example
-just a testing
+
+quick repo for in-class git demo
+
